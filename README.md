@@ -1,4 +1,4 @@
 # MISC
 The drawer for things with no proper place\n
 
-Calibration/or is a hard challenge from HTB CA:2023
+Calibration/or is a hard Misc challenge from HTB CA:2023
