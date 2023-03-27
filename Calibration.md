@@ -13,7 +13,8 @@ My strategy to solve this had two main parts.
 Step 2 iterates for each direction ~20 times.
 ![image](https://user-images.githubusercontent.com/50979196/227999631-12d8e6f9-9658-4bd5-bccc-4407d2578439.png)
 
-Each hit at this stage will move the boundaries, thus generating a new guess of center of the circle. 
+Each hit at this stage will move the boundaries, thus generating a new guess of center of the circle.
+### 2 different iteration example visualizations
 ![image](https://user-images.githubusercontent.com/50979196/227999137-45f9fe4b-7341-45d4-b478-0c3ea8c718fd.png)
 ![image](https://user-images.githubusercontent.com/50979196/227999304-612942a5-7ce3-401c-9c67-6a289a3590e3.png)
 
