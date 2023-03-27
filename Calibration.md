@@ -17,4 +17,6 @@ Step 2 iterates for eash direction ~20 times.
 ![image](https://user-images.githubusercontent.com/50979196/227999137-45f9fe4b-7341-45d4-b478-0c3ea8c718fd.png)
 ![image](https://user-images.githubusercontent.com/50979196/227999304-612942a5-7ce3-401c-9c67-6a289a3590e3.png)
 
+![image](https://user-images.githubusercontent.com/50979196/228016619-d059527d-32a4-4929-a230-4cdf6cd29563.png)
+
 
